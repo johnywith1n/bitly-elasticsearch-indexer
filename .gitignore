@@ -9,4 +9,5 @@ activator
 activator-launch-1.1.1.jar
 activator.bat
 
-src/main/resources/config.properties
+src/main/resources/application.properties
+/bin
